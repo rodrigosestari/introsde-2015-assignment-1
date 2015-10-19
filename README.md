@@ -8,6 +8,8 @@ Assignment 01: Reading/Writing objects to and from XML and JSON
 
 This project contains code written to satisfy tasks reported in Assignment1.
 
+
+
 **Code:**
 
 **src/assigment:** Classes to Evaluation.
@@ -29,19 +31,18 @@ This project contains code written to satisfy tasks reported in Assignment1.
 **doc:** JavaDoc
 
 
+
+
 **Tasks:**
 
 **Evaluation1:** Print all Person contained in resources/people.xml
-
 **Evaluation2:** Print the HealthProfile from a Person with id=5
-
 **Evaluation3:** Print  all Person that having  Weight > 90
-
 **Evaluation4:** Create 2 objects PersonType, marshalling using JAXB into XML and create a file resources/peopleJaxb.xml with the XML 
-
-**:** Get the file  resources/peopleJaxb.xml created in Evaluation4,un-marshalling using JAXB into object People, print the result  
-
+**Evaluation5** Get the file  resources/peopleJaxb.xml created in Evaluation4,un-marshalling using JAXB into object People, print the result  
 **Evaluation6:** Get the file resources/people.xml, set a PeopleStore Domain Model, transfor it a Json and put in the File resources/peopleJason.Json and finally Print the result
+
+
 
 
 
@@ -53,6 +54,8 @@ Ant source file build.xml is annotated. Main targets are:
 
 execute.evaluation: Evaluation from 1 to 6 to test 
 dist: Produce a ZIP archive containing only source code, Javadoc, xml/xsd and build-required files
+
+
 
 
 **References:**
