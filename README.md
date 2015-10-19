@@ -47,10 +47,10 @@ This Project contains code written to satisfy tasks reported in Assignment1.
 
 Running the project requires java and ant.
 
-Ant source file build.xml is annotated. Main targets are:
-
-execute.evaluation: Evaluation from 1 to 6 to test 
-dist: Produce a ZIP archive containing only source code, Javadoc, xml/xsd and build-required files
+Ant source file build.xml is annotated. 
+* Main targets are:
+* **execute.evaluation:** Evaluation from 1 to 6 to test 
+* **dist:** Produce a ZIP archive containing only source code, Javadoc, xml/xsd and build-required files
 
 
 
