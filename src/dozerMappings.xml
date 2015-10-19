@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dozer.sourceforge.net
+          http://dozer.sourceforge.net/schema/beanmapping.xsd">
+
+
+
+
+	<mapping>
+		<class-a>dao.PeopleStore</class-a>
+		<class-b>dozerproject.transfer.PeopleBean</class-b>
+		<field>
+			<a get-method="getData" set-method="setData">data</a>
+			<b get-method="getPerson" set-method="setPerson">person</b>
+		</field>
+	</mapping>
+	
+	
+	<mapping type="bi-directional">
+		<class-a>dozerproject.entity.Person</class-a>
+		<class-b>dozerproject.transfer.PersonBean</class-b>
+		<field>
+			<a>firstName</a>
+			<b>firstname</b>
+		</field>
+		<field copy-by-reference="true">
+			<a>lastName</a>
+			<b>lastname</b>
+		</field>
+		<field copy-by-reference="true">
+			<a>birthDate</a>
+			<b>birthdate</b>
+		</field>
+		<field copy-by-reference="false">
+			<a>healthProfile</a>
+			<b>healthprofile</b>
+		</field>
+		<field>
+			<a>personId</a>
+			<b>id</b>
+		</field>
+	</mapping>
+
+
+
+
+
+	<mapping type="bi-directional">
+		<class-a>dozerproject.entity.HealthProfile</class-a>
+		<class-b>dozerproject.transfer.HealthProfileBean</class-b>
+		<field>
+			<a>bmi</a>
+			<b>bmi</b>
+		</field>
+		<field>
+			<a>height</a>
+			<b>height</b>
+		</field>
+		<field>
+			<a>weight</a>
+			<b>weight</b>
+		</field>
+		<field copy-by-reference="true">
+			<a>lastupdate</a>
+			<b>lastUpdate</b>
+		</field>
+	</mapping>
+
+
+</mappings>
+        

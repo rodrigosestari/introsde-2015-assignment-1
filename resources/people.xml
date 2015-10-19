@@ -1,0 +1,270 @@
+<people>
+
+	<person id="0001">
+		<firstname>Amanda</firstname>
+		<lastname>Silva</lastname>
+		<birthdate>1989-09-20T18:23:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+			<weight>60</weight>
+			<height>1.2</height>
+			<bmi>31.14</bmi>
+		</healthprofile>
+	</person>
+
+
+
+
+	<person id="0002">
+		<firstname>George R. R.</firstname>
+		<lastname>Fedrizzi</lastname>
+		<birthdate>1980-09-24T18:00:02.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2010-10-21T18:00:00.000+02:00</lastupdate>
+			<weight>99</weight>
+			<height>2</height>
+			<bmi>90.2</bmi>
+		</healthprofile>
+	</person>
+
+	<person id="0003">
+		<firstname>Matia</firstname>
+		<lastname>Campresse</lastname>
+		<birthdate>1990-09-21T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2012-09-21T22:00:00.000+02:00</lastupdate>
+			<weight>50</weight>
+			<height>30</height>
+			<bmi>30</bmi>
+		</healthprofile>
+	</person>
+
+
+
+	<person id="0004">
+		<firstname>Somia</firstname>
+		<lastname>Bendo</lastname>
+		<birthdate>1990-12-21T18:00:03.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2005-08-03T18:00:00.000+02:00</lastupdate>
+			<weight>100</weight>
+			<height>1.5</height>
+			<bmi>40.23</bmi>
+		</healthprofile>
+	</person>
+
+
+	<person id="0005">
+		<firstname>Giulio</firstname>
+		<lastname>D'agustina</lastname>
+		<birthdate>1988-08-08T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2000-09-04T18:00:00.000+02:00</lastupdate>
+			<weight>62</weight>
+			<height>1.30</height>
+			<bmi>40.5</bmi>
+		</healthprofile>
+	</person>
+
+
+
+
+	<person id="0006">
+		<firstname>Matia</firstname>
+		<lastname>Cestari</lastname>
+		<birthdate>1970-09-23T18:00:23.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2001-09-24T18:00:00.000+02:00</lastupdate>
+			<weight>102</weight>
+			<height>1.70</height>
+			<bmi>90.3</bmi>
+		</healthprofile>
+	</person>
+
+
+
+
+	<person id="0007">
+		<firstname>Felipe</firstname>
+		<lastname>Martines</lastname>
+		<birthdate>1954-10-02T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2005-04-24T18:04:00.000+02:00</lastupdate>
+			<weight>93</weight>
+			<height>1.90</height>
+			<bmi>34</bmi>
+		</healthprofile>
+	</person>
+
+	<person id="0008">
+		<firstname>Joao</firstname>
+		<lastname>di mello</lastname>
+		<birthdate>1983-12-01T10:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2012-09-29T22:00:00.000+02:00</lastupdate>
+			<weight>72</weight>
+			<height>1.12</height>
+			<bmi>80.43</bmi>
+		</healthprofile>
+	</person>
+
+
+	<person id="0009">
+		<firstname>Pedro</firstname>
+		<lastname>Federico</lastname>
+		<birthdate>1934-12-12T12:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2015-01-13T13:00:00.000+02:00</lastupdate>
+			<weight>70</weight>
+			<height>1.831</height>
+			<bmi>120.32</bmi>
+		</healthprofile>
+	</person>
+
+
+	<person id="00010">
+		<firstname>Gustavo</firstname>
+		<lastname>de Alcantra</lastname>
+		<birthdate>1970-03-25T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2004-03-04T18:00:00.000+02:00</lastupdate>
+			<weight>123</weight>
+			<height>2</height>
+			<bmi>60</bmi>
+		</healthprofile>
+	</person>
+
+
+
+
+	<person id="0011">
+		<firstname>Ze</firstname>
+		<lastname>da Silva</lastname>
+		<birthdate>1932-05-01T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2014-09-20T18:00:00.000+02:00</lastupdate>
+			<weight>69</weight>
+			<height>1.70</height>
+			<bmi>89</bmi>
+		</healthprofile>
+	</person>
+
+	<person id="0012">
+		<firstname>Anna</firstname>
+		<lastname>Borguese</lastname>
+		<birthdate>1999-09-13T15:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2010-03-22T22:00:00.000+02:00</lastupdate>
+			<weight>89</weight>
+			<height>1.322</height>
+			<bmi>76.43</bmi>
+		</healthprofile>
+	</person>
+
+
+
+	<person id="0013">
+		<firstname>Joao</firstname>
+		<lastname>Leornadelli</lastname>
+		<birthdate>1978-08-02T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2002-04-08T18:00:00.000+02:00</lastupdate>
+			<weight>103</weight>
+			<height>1.39</height>
+			<bmi>81.14</bmi>
+		</healthprofile>
+	</person>
+
+
+	<person id="0014">
+		<firstname>Jona</firstname>
+		<lastname>Pedrosso</lastname>
+		<birthdate>1957-02-26T15:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2013-09-28T18:00:00.000+02:00</lastupdate>
+			<weight>123</weight>
+			<height>1.320</height>
+			<bmi>83</bmi>
+		</healthprofile>
+	</person>
+
+	<person id="0015">
+		<firstname>Jonata</firstname>
+		<lastname>Silva</lastname>
+		<birthdate>1991-10-22T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2012-09-21T22:03:00.000+02:00</lastupdate>
+			<weight>79</weight>
+			<height>1.982</height>
+			<bmi>56.55</bmi>
+		</healthprofile>
+	</person>
+
+
+
+	<person id="0016">
+		<firstname>Pedro</firstname>
+		<lastname>VIlla nova</lastname>
+		<birthdate>1944-09-22T15:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2011-01-20T18:00:01.000+02:00</lastupdate>
+			<weight>99</weight>
+			<height>1.0</height>
+			<bmi>90.3</bmi>
+		</healthprofile>
+	</person>
+
+	<person id="0017">
+		<firstname>Julio</firstname>
+		<lastname>Campresse</lastname>
+		<birthdate>1998-09-01T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2011-09-28T22:03:00.000+02:00</lastupdate>
+			<weight>53</weight>
+			<height>1.1</height>
+			<bmi>50.667</bmi>
+		</healthprofile>
+	</person>
+
+
+
+	<person id="0018">
+		<firstname>Eduardo</firstname>
+		<lastname>Severino</lastname>
+		<birthdate>1989-12-22T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2003-08-08T18:00:00.000+02:00</lastupdate>
+			<weight>100</weight>
+			<height>1.6</height>
+			<bmi>87.43</bmi>
+		</healthprofile>
+	</person>
+	<person id="0019">
+		<firstname>Jair</firstname>
+		<lastname>Valvanaia</lastname>
+		<birthdate>1990-09-21T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2010-09-18T22:00:00.000+02:00</lastupdate>
+			<weight>82</weight>
+			<height>1.012</height>
+			<bmi>68.97</bmi>
+		</healthprofile>
+	</person>
+
+
+
+	<person id="0020">
+		<firstname>Roze</firstname>
+		<lastname>Della bona</lastname>
+		<birthdate>1989-12-22T18:00:00.000+02:00</birthdate>
+		<healthprofile>
+			<lastupdate>2005-08-03T18:00:00.000+02:00</lastupdate>
+			<weight>80</weight>
+			<height>1.08</height>
+			<bmi>95.3</bmi>
+		</healthprofile>
+	</person>
+
+
+
+</people>
